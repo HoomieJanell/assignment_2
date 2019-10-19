@@ -1,0 +1,55 @@
+.footer{
+    border-top: 8px solid #4aaaa5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: #666666;
+    text-align: center;
+    color: #cccccc;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 8px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.header{
+    background-color: #ffffff;
+    border-bottom: 5px solid #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-top: 20px;
+}
+
+.profilepic {
+    width: 400px;
+    float: left;
+    margin-right: 30px;
+}
+
+.card-text {
+    position: absolute;
+    bottom: 50px;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 0px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-bottom: 10px;
+
+
+    
+}
+
+.card {
+    float: left;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    position: relative;
+
+
+
+}
