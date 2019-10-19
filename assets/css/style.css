@@ -1,6 +1,5 @@
 .footer{
     border-top: 8px solid #4aaaa5;
-    margin-top: 0px;
     margin-bottom: 0px;
     background-color: #666666;
     text-align: center;
@@ -20,36 +19,160 @@
     border-bottom: 5px solid #cccccc;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     padding-top: 20px;
+    width: 3000px; 
+
+
 }
 
 .profilepic {
     width: 400px;
     float: left;
-    margin-right: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+
 }
 
-.card-text {
+.card-text1 {
     position: absolute;
-    bottom: 50px;
     background-color: #4aaaa5;
     color: white;
-    padding-left: 100px;
-    padding-right: 100px;
-    margin-bottom: 0px;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    padding-bottom: 10px;
+    bottom: 0px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    left: 0px;
+    padding-right: 103px;
+    padding-left: 105px;
+}
 
+.card-text2 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    left: 0px;
+    padding-right: 103px;
+    padding-left: 105px;
+}
 
-    
+.card-text3 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    bottom: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    left: 0px;
+    padding-right: 103px;
+    padding-left: 105px;
+}
+
+.card-text4 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    bottom: 0px;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    left: 0px;
+    padding-right: 103px;
+    padding-left: 105px;
+}
+
+.card-text5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    bottom: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    left: 0px;
+    padding-right: 103px;
+    padding-left: 105px;
+    margin-bottom: 55px;
 }
 
 .card {
-    float: left;
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    position: relative;
+    margin-top: 25px;
+    margin-bottom: 8px;
+
+}
+
+.myname {
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    width: 415px;
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+    padding-top: 8px;
 
 
 
+}
+
+a {
+    color: #777777;
+    text-decoration: none;
+
+}
+ 
+nav {
+    float: right;
+}
+
+body {
+    font family: Arial, "Helvetica Neue", Helvetica, sans-seriff;
+    font-size: 18px;
+    line-height: 34 px;
+    color: #777777;
+    box-sizing: border-box;
+    margin-top: 20px;
+    background-image: url("assets/images/background.png");
+
+
+}
+
+.form-group {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.btn-primary {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: white;
+    background-color: #4aaaa5;
+    border-color: #cccccc;
+
+
+}
+
+.bio {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.heading2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-top: 20px;
+}
+
+.nav {
+    margin-bottom: 10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.container {
+    width: 960px;
+    background-color: white;
 }
