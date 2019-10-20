@@ -20,8 +20,7 @@
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     padding-top: 20px;
     width: 3000px; 
-
-
+    margin-top: 0px;
 }
 
 .profilepic {
@@ -29,7 +28,6 @@
     float: left;
     margin-right: 20px;
     margin-bottom: 15px;
-
 }
 
 .card-text1 {
@@ -114,15 +112,11 @@
     margin-bottom: 0px;
     padding-bottom: 8px;
     padding-top: 8px;
-
-
-
 }
 
 a {
     color: #777777;
     text-decoration: none;
-
 }
  
 nav {
@@ -136,9 +130,7 @@ body {
     color: #777777;
     box-sizing: border-box;
     margin-top: 20px;
-    background-image: url("assets/images/background.png");
-
-
+    background-image: url('../images/folk-pattern.png');
 }
 
 .form-group {
@@ -150,8 +142,6 @@ body {
     color: white;
     background-color: #4aaaa5;
     border-color: #cccccc;
-
-
 }
 
 .bio {
