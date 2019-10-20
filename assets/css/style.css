@@ -23,13 +23,6 @@
     margin-top: 0px;
 }
 
-.profilepic {
-    width: 400px;
-    float: left;
-    margin-right: 20px;
-    margin-bottom: 15px;
-}
-
 .card-text1 {
     position: absolute;
     background-color: #4aaaa5;
@@ -165,4 +158,12 @@ body {
 .container {
     width: 960px;
     background-color: white;
+}
+
+.img-fluid {
+    max-width: 400px;
+    max-height: auto;
+    float: left;
+    margin-right: 22px;
+    margin-bottom: 12px;
 }
