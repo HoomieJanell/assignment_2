@@ -29,11 +29,11 @@
     color: white;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     bottom: 0px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     left: 0px;
     padding-right: 103px;
-    padding-left: 105px;
+    padding-left: 120px;
 }
 
 .card-text2 {
@@ -45,7 +45,7 @@
     padding-bottom: 15px;
     padding-top: 15px;
     left: 0px;
-    padding-right: 103px;
+    padding-right: 95px;
     padding-left: 105px;
 }
 
@@ -55,8 +55,8 @@
     color: white;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     bottom: 0px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    padding-bottom: 19px;
+    padding-top: 19px;
     left: 0px;
     padding-right: 103px;
     padding-left: 105px;
@@ -68,10 +68,10 @@
     color: white;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     bottom: 0px;
-    padding-bottom: 6px;
-    padding-top: 6px;
+    padding-bottom: 15px;
+    padding-top: 15px;
     left: 0px;
-    padding-right: 103px;
+    padding-right: 101px;
     padding-left: 105px;
 }
 
@@ -92,6 +92,7 @@
 .card {
     margin-top: 25px;
     margin-bottom: 8px;
+    margin-left: 20px;
 
 }
 
