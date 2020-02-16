@@ -1,4 +1,4 @@
-.footer{
+/* .footer{
     border-top: 8px solid #4aaaa5;
     margin-bottom: 0px;
     background-color: #666666;
@@ -167,4 +167,87 @@ body {
     float: left;
     margin-right: 22px;
     margin-bottom: 12px;
+} */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+#header {
+    background-color: #ffffff;
+    height: 80px;
+    border-bottom: 3px solid #cccccc;
+
+}
+
+.name {
+    color: white;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-top: 29px;
+    width: 395px;
+    padding-left: 10px;
+
+}
+
+.nav-link {
+    color: #777777;
+    font-family: 'Helvetica Neue', 'Arial', Helvetica, sans-serif;
+    text-decoration: none;
+    margin-top: 25px;
+    left: 20px;
+}
+
+.content {
+    width: 960px;
+    background-color: #ffffff;
+    margin-top: 40px;
+    border: 1.5px solid #dddddd;
+    margin-bottom: 150px;
+}
+
+body {
+    background-image: url('../images/folk-pattern.png');
+}
+
+.aboutme {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    border-bottom: 3px solid #dddddd;
+    width: 900px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.img-fluid {
+    max-width: 400px;
+    max-height: auto;
+    margin-bottom: 20px;
+}
+
+.bio {
+    color: #777777;
+    font-family: 'Helvetica Neue', 'Arial', Helvetica, sans-serif;
+    line-height: 35px;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    color: lightgrey;
+    height: 70px;
+    text-align: center; 
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.copyright {
+    margin-top: 25px;
+    font-size: 12px;
+}
+
+.aboutme, #profilepic, .bio {
+    margin-right: 30px;
+    margin-left: 35px;
 }
