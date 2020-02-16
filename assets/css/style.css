@@ -172,6 +172,7 @@ body {
 html {
     position: relative;
     min-height: 100%;
+    width: 100%;
 }
 
 #header {
@@ -220,7 +221,7 @@ body {
     background-image: url('../images/folk-pattern.png');
 }
 
-.aboutme {
+h2 {
     color: #4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     border-bottom: 3px solid #dddddd;
@@ -257,11 +258,11 @@ footer {
     text-align: center;
 }
 
-.aboutme, .bio2 {
+h2, .bio2 {
     margin-left: 35px;
 }
 
-.aboutme, .bio1, .bio2 {
+h2, .bio1, .bio2 {
     margin-right: 35px;
 }
 
@@ -275,4 +276,18 @@ html, body {
     padding: 0px;
     height: 100%;
     width: 100%;
+}
+
+.card {
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.card-body {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-bottom: 30px;
 }
