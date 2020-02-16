@@ -179,7 +179,6 @@ html {
     background-color: #ffffff;
     height: 80px;
     border-bottom: 3px solid #cccccc;
-
 }
 
 .name {
@@ -189,7 +188,7 @@ html {
     margin-top: 29px;
     width: 395px;
     padding-left: 10px;
-    margin-left: 25px;
+    margin-left: 20px;
 
 }
 
@@ -291,3 +290,27 @@ html, body {
     font-size: 20px;
     margin-bottom: 30px;
 }
+
+form {
+    margin-left: 30px;
+    width: 900px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+    color: #777777;
+    font-size: 18px;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: 1px solid #777777;
+    margin-top: 5px;
+}
+
+.btn:hover {
+    background-color: #666666;
+}
+
